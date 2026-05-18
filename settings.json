@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "boxpvpmc.ddns.net",
+    "port": 53061,
     "version": "1.21.1"
   },
   "position": {
